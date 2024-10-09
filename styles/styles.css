@@ -1,0 +1,17 @@
+* {
+    font-style: carlito;
+    }
+h2 {
+    text-align: center;
+    }
+    
+button {
+        align-self: center;
+        }
+.container {
+        display: flex;
+        background-color: #810fc8;
+        height: 70vh;
+        width: 100vw;
+        justify-content: space-around;
+        }
